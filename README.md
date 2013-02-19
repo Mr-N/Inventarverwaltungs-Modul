@@ -2,7 +2,8 @@ Inventarverwaltungs-Modul
 =========================
 
 Ein freies Inventarisierungs-Modul für die freie Sammlungsverwaltung "Datacrow"[1](www.datacrow.net) // an free inventorymanagement-module for the free collectionmanager "Datacrow"[1](www.datacrow.net)
-[Inventarisierungs-Modul-picture](https://github.com/Mr-N/Inventarverwaltungs-Modul/blob/master/Screenshots/Datacrow-Inventarverwaltungsmodul-Collage.png)
+
+![Inventarisierungs-Modul-Bild](https://github.com/Mr-N/Inventarverwaltungs-Modul/blob/master/Screenshots/Datacrow-Inventarverwaltungsmodul-Collage.png)
 
 [1] www.datacrow.net
 
