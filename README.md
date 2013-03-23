@@ -3,7 +3,9 @@ Inventarverwaltungs-Modul
 
 Ein freies Inventarisierungs-Modul für die freie Sammlungsverwaltung "Datacrow"[1](www.datacrow.net) // an free inventorymanagement-module for the free collectionmanager "Datacrow"[1](www.datacrow.net)
 
-![Inventarverwaltungsmodul-Collage.png](https://github.com/Mr-N/Inventarverwaltungs-Modul/blob/master/Screenshots/Datacrow-Inventarverwaltungsmodul-Collage.png)
+![Inventarisierungs-Modul-Bild](https://raw.github.com/Mr-N/Inventarverwaltungs-Modul/master/Screenshots/Datacrow-Inventarverwaltungsmodul-Collage.png)
+
+![Inventarisierungs-Modul-Bild](/home/norman/Projekte/Inventarverwaltungsmodul/Datacrow-Inventarverwaltungsmodul-Collage.png)
 
 [1] www.datacrow.net
 
@@ -11,19 +13,18 @@ Ein freies Inventarisierungs-Modul für die freie Sammlungsverwaltung "Datacrow"
 DEUTSCHE VERSION. FOR ENGLISH VERSION LOOK BELOW.
 
 ## Installation:
-1. Download + Install Datacrow (http://www.datacrow.net/#downloads)
-2. Importiere das Inventarverwaltungs-modul (inventarmodul_export.zip) in Datacrow mittels des Modulimportassistenten
-3. Importieren die Beispieldaten (Inventarmodul-Datenexport_xxx.*) mittels des Eintragsimportassistenten
+1. Download + Install Datacrow (<http://www.datacrow.net/#downloads>)
+2. Importiere das Inventarverwaltungs-modul (_inventarmodul_export.zip_) in Datacrow mittels des Modulimportassistenten
+3. Importieren die Beispieldaten (_Inventarmodul-Datenexport_xxx.*_) mittels des Eintragsimportassistenten
 
-Oder versuche das Vollbackup (datacrow_backup_xxx.zip) mittels der Sichern-& Wiederherstellen-Funktion wieder einzuspielen.
-
+Oder versuche das Vollbackup (_datacrow_backup_xxx.zip_) mittels der Sichern-& Wiederherstellen-Funktion in deine Datacrowinstallation einzuspielen. Achtung! Beim Einspielen des Backups werden deine bisherigen Datacrow-Daten überschreiben.
 
 ENGLISH VERSION. FÜR DEUTSCHE VERSION SIEHE OBEN.
 
 ## Installation:
 
-1. Download + Install Datacrow (http://www.datacrow.net/#downloads)
-2. Import the Inventorymanagement-module (inventarmodul_export.zip) into Datacrow using the importmodule-wizard
-3. Import the exampledata (Inventarmodul-Datenexport_xxx.*) using the data-import-wizard
+1. Download + Install Datacrow (<http://www.datacrow.net/#downloads>)
+2. Import the Inventorymanagement-module (_inventarmodul_export.zip_) into Datacrow using the importmodule-wizard
+3. Import the exampledata (_Inventarmodul-Datenexport_xxx.*_) using the data-import-wizard
 
-Or try to restore the fullbackup (datacrow_backup_xxx.zip) made with Datacrows built-in backupfunction.
+Or try to restore the fullbackup (_datacrow_backup_xxx.zip_) made with Datacrows built-in backupfunction. Be careful! The restore of the fullbackup will overwrite all your data in your Datacrow.
