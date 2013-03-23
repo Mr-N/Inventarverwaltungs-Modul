@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xsd:element name="data-crow-objects">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element maxOccurs="unbounded" ref="inventar"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:element>
+
+    <xsd:element name="external-reference" type="type-external-reference"/>
+    <xsd:complexType name="type-external-reference">
+        <xsd:sequence>
+        </xsd:sequence>
+    </xsd:complexType>
+
+
+    <xsd:element name="category" type="type-category"/>
+    <xsd:complexType name="type-category">
+        <xsd:sequence>
+            <xsd:element name="name" type="xsd:string"/>
+        </xsd:sequence>
+    </xsd:complexType>
+
+
+    <xsd:element name="ansprechpartner" type="type-ansprechpartner"/>
+    <xsd:complexType name="type-ansprechpartner">
+        <xsd:sequence>
+        </xsd:sequence>
+    </xsd:complexType>
+
+
+    <xsd:element name="inventar" type="type-inventar"/>
+    <xsd:complexType name="type-inventar">
+        <xsd:sequence>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:schema>
